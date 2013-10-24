@@ -16,6 +16,8 @@ permalink: "/part-1/open-data-in-chicago-game-on/"
 featured: true
 ---
 Before I joined Chicago’s government administration, I knew very little about open data. I certainly had been immersed in the world of data and analytics for some time, but I didn’t substantively understand the concept of “open” as it applied to this context. In fact, because I’d worked at the Chicago Police Department in the Counterterrorism and Intelligence Section, open data seemed completely counterintuitive. So when Mayor-elect Rahm Emanuel’s transition team reached out to me to discuss ramping up an open data program at the City of Chicago, I had to do some quick and hasty internet research to be properly prepared.
+一直到我加入在芝加哥市政管理中心之前，我對於公開資料的認知並不多。雖然當時我已經埋頭於資料分析的領域許久，但我並沒有實質的了解公開資料中所提及的”公開”這一詞的概念。事實上，當時因為當時我正要去芝加哥警局的反恐和情報組服務，而公開資料在此似乎又不是有那麼直接的關係。
+而當新任市長伊曼紐爾的市政籌組團隊找我討論，並且籌措芝加哥市的公開資料計畫，對此我不得不去網路上簡單花些功夫研究一下。
 
 During the mayoral campaign, Mayor Emanuel had held an event at Microsoft that highlighted the importance of open government, citing open data at the heart of his vision for a more transparent Chicago. The mayor then asked me to serve as the city’s first Chief Data Officer (CDO) and to implement his vision of a more transparent government that not only makes its data available to the public, but also uses data analysis as a tool to inform policy and improve services.
 
